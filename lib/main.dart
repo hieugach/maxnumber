@@ -45,11 +45,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String maxnumber="";
-  bool isEmpty1=true;
-  bool isEmpty2=true;
-  bool isEmpty3=true;
-  bool isEmpty4=true;
-  String error = 'vui long hoan thanh truong';
   TextEditingController _number1 = new TextEditingController();
   TextEditingController _number2 = new TextEditingController();
   TextEditingController _number3 = new TextEditingController();
